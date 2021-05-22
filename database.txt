@@ -1,4 +1,4 @@
-user — пользователи
+user
 
 - id INT NOT NULL AUTO_INCREMENT
 - reg_time DATETIME NOT NULL
